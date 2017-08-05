@@ -17,4 +17,9 @@ describe('ContentElement', () => {
     expect(renderedContent.length).toBe(1);
   });
 
+  it('should have the correct width style applied to it', () => {
+    const component = shallow(<ContentElement columns={4} />);
+    expect(component.props().style.width).toEqual('25%');
+  });
+
 });

@@ -1,0 +1,123 @@
+{
+  "quiz": {
+    "type": "sequential",
+    "current": 0,
+    "questions": [
+      {
+        "title": "Why is six afraid of seven?",
+        "answer": 4,
+        "id": 0,
+        "choices": [
+          {
+            "id": 1,
+            "title": "Seven is her boss"
+          },
+          {
+            "id": 2,
+            "title": "Two started a rumor about Seven's out of office habits."
+          },
+          {
+            "id": 3,
+            "title": "Seven Eight Nine."
+          },
+          {
+            "id": 4,
+            "title": "Six suffers from severe paranoia."
+          }
+        ]
+      },
+      {
+        "title": "What was the name of the first electronic general-purpose computer?",
+        "answer": 3,
+        "id": 1,
+        "choices": [
+          {
+            "id": 1,
+            "title": "PONTIAC"
+          },
+          {
+            "id": 2,
+            "title": "CELIAC"
+          },
+          {
+            "id": 3,
+            "title": "ENIAC"
+          },
+          {
+            "id": 4,
+            "title": "MANIAC"
+          }
+        ]
+      },
+      {
+        "title": "In the children's books about a 25 foot tall red dog, what is the name of the dog?",
+        "answer": 4,
+        "id": 2,
+        "choices": [
+          {
+            "id": 1,
+            "title": "Scooby Doo"
+          },
+          {
+            "id": 2,
+            "title": "Droopy"
+          },
+          {
+            "id": 3,
+            "title": "Scrappy"
+          },
+          {
+            "id": 4,
+            "title": "Clifford"
+          }
+        ]
+      },
+      {
+        "title": "Climate change has been most expidited by what living being?",
+        "answer": 1,
+        "id": 3,
+        "choices": [
+          {
+            "id": 1,
+            "title": "Humans"
+          },
+          {
+            "id": 2,
+            "title": "Dogs"
+          },
+          {
+            "id": 3,
+            "title": "Trick Question! Climate change is not real!"
+          },
+          {
+            "id": 4,
+            "title": "Blowfish"
+          }
+        ]
+      },
+      {
+        "title": "What country has the largest land mass?",
+        "answer": 4,
+        "id": 4,
+        "choices": [
+          {
+            "id": 1,
+            "title": "Antartica"
+          },
+          {
+            "id": 2,
+            "title": "China"
+          },
+          {
+            "id": 3,
+            "title": "Africa"
+          },
+          {
+            "id": 4,
+            "title": "Russia"
+          }
+        ]
+      }
+    ]
+  }
+}
